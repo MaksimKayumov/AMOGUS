@@ -1,6 +1,9 @@
 # AMOGUS
 Esolang Based on Amogus Meme
 # Tutorial
+File Format Of "AMOGUS"
+Programm is ".sus"
+
 **Your program should consist of only two lines.**
 Here is Commands:
 
